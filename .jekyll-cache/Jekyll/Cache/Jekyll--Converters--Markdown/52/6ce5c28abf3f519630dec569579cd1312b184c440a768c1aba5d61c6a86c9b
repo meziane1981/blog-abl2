@@ -1,0 +1,100 @@
+I"�<!-- begin hero -->
+<section class="hero">
+    <div class="container">
+        <div class="row">
+            <div class="col col-12">
+                <div class="hero__inner">
+
+                    <div class="hero__left">
+                        <h1 class="hero__title">L’analytics différemment</h1>
+                        <p class="hero__description">Abla c’est simplement une solution de mesure d'audience pour les sites internet. Notre différence avec Google Analytics ? On est respectueux par défaut au RGPD et aux recommandations de la CNIL.</p>
+                        
+                        <div class="hero__subscribe">
+                            <form class="subscribe-form validate" action="//frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3" method="POST" id="membedded-subscribe-form" name="membedded-subscribe-form" target="_blank" novalidate="">
+                                <label class="screen-reader-text" for="mce-EMAIL">Email address</label>
+                                <input class="subscribe-email required email" id="mce-EMAIL" type="text" name="EMAIL" placeholder="Subscribe here" />
+                                <button class="button button--primary subscribe-button" id="membedded-subscribe" type="submit" name="subscribe">Get a new tip</button>
+                            </form>
+                        </div>
+                        
+                    </div>
+
+                    <div class="hero__right">
+                        <div class="hero__image">
+                            <img class="lazy" data-src="./images/google-analytics-alternative-rgpd.jpg" alt="'s Picture" />
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- end hero -->
+
+<div class="container">
+  <div class="row animate">
+    
+      
+    
+  </div>
+</div>
+
+<!-- begin section-tags -->
+<section class="section section-tags">
+  <div class="container">
+    <div class="row">
+      <div class="col col-12">
+        <div class="section__head">
+          <h3 class="section__title">Tags</h3>
+          <a href="/tags/" class="section__link">See all</a>
+        </div>
+        
+        
+
+        <div class="row">
+          
+          
+          <div class="col col-3 col-d-6 col-m-12">
+            <a href="/tags#fashion" class="tag-image">
+              <span class="tag-name">fashion</span>
+              <img class="lazy" data-src="/images/11.jpg" alt="post.title" />
+            </a>
+          </div>
+          
+          
+          
+          <div class="col col-3 col-d-6 col-m-12">
+            <a href="/tags#hobby" class="tag-image">
+              <span class="tag-name">hobby</span>
+              <img class="lazy" data-src="/images/02.jpg" alt="post.title" />
+            </a>
+          </div>
+          
+          
+          
+          <div class="col col-3 col-d-6 col-m-12">
+            <a href="/tags#lifestyle" class="tag-image">
+              <span class="tag-name">lifestyle</span>
+              <img class="lazy" data-src="/images/07.jpg" alt="post.title" />
+            </a>
+          </div>
+          
+          
+          
+          <div class="col col-3 col-d-6 col-m-12">
+            <a href="/tags#notes" class="tag-image">
+              <span class="tag-name">notes</span>
+              <img class="lazy" data-src="/images/04.jpg" alt="post.title" />
+            </a>
+          </div>
+          
+          
+          
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- end section-tags -->
+:ET
